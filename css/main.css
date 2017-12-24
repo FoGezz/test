@@ -1,0 +1,34 @@
+.date {
+font-size: 10px;
+color: grey;
+}
+
+.lvl_1 {
+	margin-left: 5px;
+}
+
+.lvl_2 {
+	margin-left: 25px;
+}
+
+.lvl_3 {
+	margin-left: 45px;
+}
+
+.lvl_4 {
+	margin-left: 65px;
+}
+
+.lvl_5 {
+	margin-left: 85px;
+}
+
+body {
+background-color: #e5e4f0;
+}
+
+
+
+.btnNewComment, .btnDeleteComment {
+display: inline-block;
+}
